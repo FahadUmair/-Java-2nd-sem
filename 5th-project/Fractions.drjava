@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="" manifest="" root="" work="">
+    <createjar file="Fractions.jar" flags="1"/>
+    <source>
+      <file active="true" name="RatioFraction.java" package="Fractions" timestamp="11-Feb-2020 10:34:36">
+        <select from="861" to="856"/>
+        <scroll column="117" row="0"/>
+      </file>
+      <file name="ZeroDenominatorException.java" package="Fractions" timestamp="02-Feb-2016 13:35:58">
+        <select from="861" to="856"/>
+        <scroll column="117" row="0"/>
+      </file>
+      <file name="Fraction.java" package="Fractions" timestamp="05-Feb-2018 12:05:18">
+        <select from="861" to="856"/>
+        <scroll column="117" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
