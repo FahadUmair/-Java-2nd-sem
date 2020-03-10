@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ListOps.java" package="ListOps" timestamp="10-Mar-2020 10:40:45">
+        <select from="2503" to="2503"/>
+        <scroll column="902" row="0"/>
+      </file>
+      <file name="List.java" package="ListOps" timestamp="01-Mar-2018 15:04:28">
+        <select from="2503" to="2503"/>
+        <scroll column="902" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
